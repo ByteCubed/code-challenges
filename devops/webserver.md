@@ -41,3 +41,4 @@ This section is not necessary so not doing this will not have any bearing on how
 * Leverage a scripting tool of your choice such as Terraform (our internal automation tool of choice).
 * Leverage Docker as a way to containerize your application to assist in deployments.
 * Run two of your web servers in High Availability Mode with a load balancer of your choice (NGINX, HAProxy, ELB).
+* Leverage [LetsEncrypt](https://letsencrypt.org) to generate a certificate to enable TLS on your solution.
