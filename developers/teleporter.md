@@ -8,31 +8,31 @@ Input to the program will be a list of teleportation routes, followed by a list 
 
 ### Example input:
 ```
-Washington - Baltimore
-Washington - Atlanta
-Baltimore - Philadelphia
-Philadelphia - New York
+Fortuna - Hemingway
+Fortuna - Atlantis
+Hemingway - Chesterfield
+Chesterfield - Springton
 Los Angeles - San Fransisco
-San Fransisco - Oakland
-Los Angeles - Oakland
-Seattle - New York
-Seattle - Baltimore
-cities from Seattle in 1 jumps
-cities from Seattle in 2 jumps
-can I teleport from New York to Atlanta
-can I teleport from Oakland to Atlanta
-loop possible from Oakland
-loop possible from Washington
+San Fransisco - Oaktown
+Los Angeles - Oaktown
+Summerton - Springton
+Summerton - Hemingway
+cities from Summerton in 1 jumps
+cities from Summerton in 2 jumps
+can I teleport from Springton to Atlantis
+can I teleport from Oaktown to Atlantis
+loop possible from Oaktown
+loop possible from Fortuna
 ```
 
 ### Example output:
 ```
-cities from Seattle in 1 jumps: New York, Baltimore
-cities from Seattle in 2 jumps: New York, Baltimore, Philadelphia, Washington
-can I teleport from New York to Atlanta: yes
-can I teleport from Oakland to Atlanta: no
-loop possible from Oakland: yes
-loop possible from Washington: no
+cities from Summerton in 1 jumps: Springton, Hemingway
+cities from Summerton in 2 jumps: Springton, Hemingway, Chesterfield, Fortuna
+can I teleport from Springton to Atlantis: yes
+can I teleport from Oaktown to Atlantis: no
+loop possible from Oaktown: yes
+loop possible from Fortuna: no
 ```
 
 ### Questions to answer:
