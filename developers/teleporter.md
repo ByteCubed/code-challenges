@@ -12,9 +12,9 @@ Fortuna - Hemingway
 Fortuna - Atlantis
 Hemingway - Chesterfield
 Chesterfield - Springton
-Los Angeles - San Fransisco
-San Fransisco - Oaktown
-Los Angeles - Oaktown
+Los Amigos - Paristown
+Paristown - Oaktown
+Los Amigos - Oaktown
 Summerton - Springton
 Summerton - Hemingway
 cities from Summerton in 1 jumps
