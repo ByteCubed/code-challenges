@@ -24,7 +24,7 @@ Table D : Reese, party of 7
 
 ### How to Submit:
 
-Please feel free to sen us a link to a Github repository that will contain your solution.  We are fairly flexible for what language you write this in so feel free to include a response in any of the following languages or what ever language you are most comfortable in:
+Please feel free to send us a link to a Github repository that will contain your solution.  We are fairly flexible for what language you write this in so feel free to include a response in any of the following languages or what ever language you are most comfortable in:
 * Java
 * JavaScript
 * Go
@@ -39,5 +39,3 @@ When thinking abut how to structure your solution think about how you would typi
 
 #### How am I evaluated?
 As with all ByteCubed Challenges, we are more concerned about how you went about solving and thinking about the problem than anything else.  We use this as a data point within our interview process and it is meant to help drive the conversation.
-
-####
