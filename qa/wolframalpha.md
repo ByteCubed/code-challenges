@@ -20,7 +20,7 @@ Search Input: ```what is the size of the sun```
 * Attempt to login with invalid credentials 
 * Assert that an error message is thrown
 * Log in with these credentials, email: "wolframalphaTester@mailinator.com", password:"wolframalphaTester12345"
-* Verify that the user name is Present in hte nav bar
+* Verify that the user name is Present in the nav bar
 
 ### How to Submit:
 
