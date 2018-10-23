@@ -1,6 +1,6 @@
 # QA Automation Coding Challenges
 
-The purpose of this page is to a set of challenges that rotate fairly frequently that candidates can select from to deliver their coding assessment.  Below you will find answer to common questions along with the high level process to follow.  
+The purpose of this page is to provide a set of challenges that rotate fairly frequently that candidates can select from to deliver their coding assessment.  Below you will find answer to common questions along with the high level process to follow.  
 
 * [wolframalpha](wolframalpha.md)
 
