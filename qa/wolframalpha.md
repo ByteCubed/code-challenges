@@ -35,7 +35,7 @@ Please feel free to send us a link to a Github repository that will contain your
 * .NET (C# or VB.NET)
 
 Feel free to use any of the open source automation tools available:
-:q
+
 * Selenium
 * Protractor
 * Cucumber
