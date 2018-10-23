@@ -16,7 +16,7 @@ Search Input: ```what is the size of the sun```
 * Click the "Show Metric" button and verify what the radius of the sun is in kilometers now
 * Verify that the non-metric value is not present
 * Validate the lifetime of the sun
-* Click Sign in form the navigation bar 
+* Click Sign in from the navigation bar 
 * Attempt to login with invalid credentials 
 * Assert that an error message is thrown
 * Log in with these credentials, email: "wolframalphaTester@mailinator.com", password:"wolframalphaTester12345"
