@@ -7,9 +7,20 @@ Search Input: ```what is the size of the sun```
 
 ### Items to test
 
+* Navigate to [WolframAlpha] (https://www.wolframalpha.com)
+* Validate that the navigation bar is present
+* Check that the navigation links are present
+* Assert presence of all footer links
+* Enter the search input: ```what is the size of the sun```   
 * Verify that the radius of the sun is 432300 miles.
-* What is the lifetime of the sun?
-* What other Examples of G2 main‐sequence stars are in the results?
+* Click the "Show Metric" button and verify what the radius of the sun is in kilometers now
+* Verify that the non-metric value is not present
+* Validate the lifetime of the sun
+* Click Sign in from the navigation bar 
+* Attempt to login with invalid credentials 
+* Assert that an error message is thrown
+* Log in with these credentials, email: "wolframalphaTester@mailinator.com", password:"wolframalphaTester12345"
+* Verify that the user name is Present in the nav bar
 
 ### How to Submit:
 
@@ -23,7 +34,15 @@ Please feel free to send us a link to a Github repository that will contain your
 * Python
 * .NET (C# or VB.NET)
 
-When thinking abut how to structure your solution think about how you would typically would work with teams and the common concerns that you may have when sharing code with others.
+Feel free to use any of the open source automation tools available:
+
+* Selenium
+* Protractor
+* Cucumber
+* TestNG
+* Junit
+
+When thinking abut how to structure your solution think about how you would typically work with teams and the common concerns that you may have when sharing code with others.
 
 ### Questions
 
