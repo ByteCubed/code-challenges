@@ -94,14 +94,12 @@ The [data](data/data_engineering_dataset.csv) you will use for this code challen
 | VehType         | Passenger, Truck, or Motorcycle                    |
 | LocationNum     | ID number of store that acquired vehicle           |
 | CarType         | Vehicle segment type                               |
-| IsDomestic      | 0 = Foreign make, 1 = American make                |
 | EngineLiters    | Engine displacement in Liters                      |
-| Country         | Country of manufacture                             |
 | FuelType        | Fuel type of vehicle                               |
-| SeatingCapacity | Seating capacity of vehicle                        |
 | Transmission    | Transmission type of vehicle                       |
 | SaleLoc         | ID number of dealership that sold vehicle          |
 | PurchVal        | Purchase price of vehicle                          |
+
 
 ## Questions
 
