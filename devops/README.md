@@ -11,4 +11,4 @@ These challenges center around activities commonly done when working with Config
 You will notice a series of Markdown files that are available, please select one of the challenges to work on and submit the results of your coding assessment in git repo that is accessible to the reviewer.  
 
 ### How do I submit my Challenge?
-To simplify the process we have opted to using GitHub as our primary source code repository for our challenges, please fork this repository and provide either a pull request or a link to a repository of your own that we can use to review the source code.
+To simplify the process we have opted to using GitHub as our primary source code repository for our challenges, please fork this repository and provide a link to a repository of your own that we can use to review the source code.
